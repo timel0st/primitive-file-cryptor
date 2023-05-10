@@ -1,4 +1,4 @@
-# primitiveFileEncryptor
+# Primitive file cryptor
 Study project written in 8086 assembly language
 Using modular addition method with a key.
 
