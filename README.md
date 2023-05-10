@@ -3,7 +3,7 @@ Study project written in 8086 assembly language
 Using modular addition method with a key.
 
 # Installation
-Assemble it using TASM and TLINK
+Assemble and bulid it using TASM and TLINK
 ```
 tasm crypt
 tlink crypt
